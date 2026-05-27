@@ -2,6 +2,16 @@
 
 https://www.facebook.com/WordBlitzOriginal/
 
+<p align="center">
+  <img
+    src="https://github.com/eric-r-xu/WordBlitzAutoPlay/blob/af8ed76490a7901036f09f3c2478bede7a458818/wordBlitz.png"
+    alt="WordBlitz_logo"
+    width="200"
+  >
+</p>
+
+> Built as a personal automation / computer vision experiment for recognizing and playing WordBlitz 
+
 
 This Python script helps solve and optionally auto-trace words on a 4x4 connected-letter word game board, similar to Boggle or Word Blitz.
 
@@ -64,7 +74,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 ## Running the Script
 
 ```bash
-python word_blitz_autoplay_no_comments.py
+python wordBlitz_autoplay.py
 ```
 
 ## Controls
